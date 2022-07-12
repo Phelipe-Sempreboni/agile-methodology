@@ -1,6 +1,6 @@
 ---
 
-- Metologia Ágil
+### Metologia Ágil
 
 ---
 
@@ -10,6 +10,10 @@
 
 ---
 
+- O que é ser Ágil ?
+
 ![image](https://user-images.githubusercontent.com/57469401/178402345-3562fe32-2259-4daf-9398-e80b744ff85a.png)
 
 ---
+
+_Espero ajudar_ :smiley:
